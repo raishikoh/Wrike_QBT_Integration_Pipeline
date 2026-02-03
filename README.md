@@ -185,7 +185,6 @@ The script generates the following files:
 - **Developed by**: Ali Sehpar Shikoh (Eclipse Geomatics Ltd.)
 - **Version**: 1
 - **Last Updated**: February 2026
-- **License**: MIT License
 
 ---
 
