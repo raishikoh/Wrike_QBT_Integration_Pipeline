@@ -183,7 +183,7 @@ The script generates the following files:
 ## Project Information
 
 - **Developed by**: Ali Sehpar Shikoh (Eclipse Geomatics Ltd.)
-- **Version**: 1
+- **Version**: 2
 - **Last Updated**: February 2026
 
 ---
